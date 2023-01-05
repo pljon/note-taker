@@ -1,4 +1,4 @@
 # dependencies
-./sandbox/
+sandbox
 package-lock.json
 node_modules
