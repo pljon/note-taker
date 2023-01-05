@@ -1,4 +1,4 @@
 # dependencies
 sandbox
-package-lock.json
-node_modules
+Develop\node_modules
+Develop\package-lock.json
