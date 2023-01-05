@@ -1,5 +1,5 @@
 # dependencies
 sandbox
-Develop\node_modules
-Develop\package-lock.json
+Develop/node_modules
+Develop/package-lock.json
 Assets
